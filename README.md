@@ -4,12 +4,10 @@ Welcome to my Data Analytics Portfolio.
 
 This repository serves as a central hub for my analytics projects, showcasing end-to-end solutions built using **Python, MySQL, Microsoft Excel, and Power BI**.
 
-Each project demonstrates my ability to transform raw data into actionable business insights through data cleaning, exploratory analysis, SQL querying, visualization, dashboard development, and business recommendations.
-
 ---
 ## 🎯 Portfolio Goal
 
-This portfolio demonstrates my ability to complete end-to-end data analytics projects using industry-standard tools and best practices.
+This portfolio demonstrates my ability to complete end-to-end data analytics projects using industry-standard tools and best practices. And each project demonstrates my ability to transform raw data into actionable business insights through data cleaning, exploratory analysis, SQL querying, visualization, dashboard development, and business recommendations.
 
 Each project follows a structured workflow:
 
