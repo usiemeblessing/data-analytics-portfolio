@@ -7,14 +7,22 @@ This repository serves as a central hub for my analytics projects, showcasing en
 Each project demonstrates my ability to transform raw data into actionable business insights through data cleaning, exploratory analysis, SQL querying, visualization, dashboard development, and business recommendations.
 
 ---
+## 🎯 Portfolio Goal
 
-## 👩🏽‍💻 About Me
+This portfolio demonstrates my ability to complete end-to-end data analytics projects using industry-standard tools and best practices.
 
-Hi, I'm **Blessing Usieme**.
+Each project follows a structured workflow:
 
-I'm a **Data Analyst** with skills in **Python, SQL (MySQL), Microsoft Excel, Power BI**, and **Basic Front-End Development**.
+- Business Problem
+- Business Questions
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Analysis
+- Dashboard Development
+- Business Insights
+- Actionable Recommendations
 
-I enjoy solving business problems with data and building dashboards that support data-driven decision-making.
+The portfolio spans multiple domains, including retail, supply chain, education, and human resources, showcasing transferable analytical skills across industries.
 
 ---
 
