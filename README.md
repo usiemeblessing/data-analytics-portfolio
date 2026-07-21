@@ -75,8 +75,12 @@ Future portfolio projects include:
 
 ---
 
-## 📫 Connect With Me
+## 👤 Author
 
-- GitHub: https://github.com/usiemeblessing
+**Blessing Usieme**
 
-LinkedIn and portfolio website will be added soon.
+**Data Analyst - Business Intelligence | Data Visualization and Storytelling**
+
+GitHub: https://github.com/usiemeblessing
+
+LinkedIn: https://linkedin.com/in/blessing-usieme-b31b32396
