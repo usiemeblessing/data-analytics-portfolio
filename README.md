@@ -57,6 +57,7 @@ The portfolio spans multiple domains, including retail, supply chain, education,
 | Agricultural Supply Chain Analysis | Supply chain performance and operational analysis | Python, MySQL, Excel, Power BI | 🚧 In Progress |
 | Student Performance Analysis | Educational performance analytics and dashboard | Python, MySQL, Excel, Power BI | 🚧 In Progress |
 | HR Analytics | Workforce analytics and employee insights | Python, MySQL, Excel, Power BI | 🚧 In Progress |
+| Dexa Sales Performance Analytics | Workforce analytics and employee insights | Python, MySQL, Excel, Power BI | ✅ Completed  |
 
 ---
 
