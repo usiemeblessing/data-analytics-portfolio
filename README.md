@@ -49,7 +49,7 @@ The portfolio spans multiple domains, including retail, supply chain, education,
 
 ---
 
-## 📁 Featured Projects
+## 📁 All Analytics Projects
 
 | Project | Description | Tools | Status |
 |---------|-------------|-------|--------|
