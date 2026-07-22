@@ -51,13 +51,20 @@ The portfolio spans multiple domains, including retail, supply chain, education,
 
 ## 📁 All Analytics Projects
 
-| Project | Description | Tools | Status |
-|---------|-------------|-------|--------|
-| Retail Sales Performance Analysis | End-to-end retail analytics dashboard and business insights | Python, MySQL, Excel, Power BI | ✅ Completed |
-| Agricultural Supply Chain Analysis | Supply chain performance and operational analysis | Python, MySQL, Excel, Power BI | 🚧 In Progress |
-| Student Performance Analysis | Educational performance analytics and dashboard | Python, MySQL, Excel, Power BI | 🚧 In Progress |
-| HR Analytics | Workforce analytics and employee insights | Python, MySQL, Excel, Power BI | 🚧 In Progress |
-| Dexa Sales Performance Analytics | Workforce analytics and employee insights | Python, MySQL, Excel, Power BI | ✅ Completed  |
+| Project | Domain | Description | Tools | Status |
+|---------|--------|-------------|-------|--------|
+| **[🛍️ Retail Sales Performance Analysis](https://github.com/usiemeblessing/retail-sales-performance-analysis)** | Retail Analytics | End-to-end retail analytics dashboard and business insights | Python, MySQL, Excel, Power BI | ✅ |
+| **[🌾 Agricultural Supply Chain Analysis](https://github.com/usiemeblessing/agricultural-supply-chain-analysis)** | Supply Chain | Supply chain performance and operational analysis | Python, MySQL, Excel, Power BI | 🚧 |
+| **[🎓 Student Performance Analysis](https://github.com/usiemeblessing/student-performance-analysis)** | Education | Educational performance analytics and dashboard | Python, MySQL, Excel, Power BI | 🚧 |
+| **[🛒 Supermarket Sales Performance Analysis](https://github.com/usiemeblessing/supermarket-sales-performance-analysis)** | Retail Analytics | Retail analytics dashboard and business insights  | Excel | ✅ |
+| **[💰 Furniture Sales Performance Analysis](https://github.com/usiemeblessing/furniture-sales-performance-analysis)** | Retail Analytics | Retail analytics dashboard and business insights  | Excel | ✅ |
+| **[👥 HR Analytics](https://github.com/usiemeblessing/financial-analytics)** | Human Resources | Workforce analytics and employee insights  | Excel | 🚧 |
+| **[💰 Dexa Sales Analysis](https://github.com/usiemeblessing/dexa-sales-performance-analysis)** |Retail Analytics | Retail analytics dashboard and business insights  | Power Query, Power BI | ✅ |
+
+
+
+
+
 
 ---
 
