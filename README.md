@@ -1,5 +1,6 @@
 # 📊 Data Analytics Portfolio
 
+
 Welcome to my Data Analytics Portfolio.
 
 This repository serves as a central hub for my analytics projects, showcasing end-to-end solutions built using **Python, MySQL, Microsoft Excel, and Power BI**.
@@ -20,7 +21,7 @@ Each project follows a structured workflow:
 - Business Insights
 - Actionable Recommendations
 
-The portfolio spans multiple domains, including retail, supply chain, education, and human resources, showcasing transferable analytical skills across industries.
+The projects spans multiple domains, including retail, supply chain, education, and human resources, showcasing transferable analytical skills across industries.
 
 ---
 
@@ -61,25 +62,6 @@ The portfolio spans multiple domains, including retail, supply chain, education,
 | **[👥 HR Analytics](https://github.com/usiemeblessing/financial-analytics)** | Human Resources | Workforce analytics and employee insights  | Excel | 🚧 |
 | **[💰 Dexa Sales Analysis](https://github.com/usiemeblessing/dexa-sales-performance-analysis)** |Retail Analytics | Retail analytics dashboard and business insights  | Power Query, Power BI | ✅ |
 
-
-
-
-
-
----
-
-## 🎯 Learning Roadmap
-
-Future portfolio projects include:
-
-- Customer Churn Analysis
-- Financial Sales Dashboard
-- Marketing Campaign Analysis
-- E-Commerce Customer Segmentation
-- Healthcare Analytics
-- Banking Analytics
-- Supply Chain Analytics
-- HR Workforce Analytics
 
 ---
 
