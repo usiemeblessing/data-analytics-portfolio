@@ -21,3 +21,11 @@ In the initial phase of the data cleaning and preparation, the following actions
 
 ### Data Analysis
 
+
+### Visualization
+
+
+### Insights
+
+
+### Recommendation
